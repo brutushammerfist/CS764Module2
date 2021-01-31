@@ -1,0 +1,7 @@
+POT
+PIE
+CAT
+COW
+RAT
+OWL
+YAK
